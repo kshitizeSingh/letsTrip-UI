@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "letstrip-22241": {
+      "hosting": {
+        "letsTrip": [
+          "letstrip-22241"
+        ]
+      }
+    }
+  }
+}

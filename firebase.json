@@ -1,0 +1,19 @@
+{
+  "hosting": [
+    {
+      "target": "letsTrip",
+      "public": "dist/letsTrip",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}
